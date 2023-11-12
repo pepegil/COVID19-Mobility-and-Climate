@@ -5,8 +5,8 @@
 
 <p></p>
 
-<p> https://github.com/pepegil/prueba-0/blob/main/Extraction.md : process of extraction and transformation data from the sources.</p>
+<p> https://github.com/pepegil/Master-Final-project/blob/main/Extraction.md : ETL process.</p>
 
-<p> https://github.com/pepegil/prueba-0/blob/main/EDA.md : process of exploratory data analysis.</p>
+<p> https://github.com/pepegil/Master-Final-project/blob/main/EDA.md : process of exploratory data analysis.</p>
 
-<p> https://github.com/pepegil/prueba-0/blob/main/modelado.md : process of aplying Machine learning algorithms.</p>
+<p> https://github.com/pepegil/Master-Final-project/blob/main/modelado.md : process of aplying Machine learning algorithms.</p>
