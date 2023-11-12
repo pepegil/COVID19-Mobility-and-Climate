@@ -7,7 +7,7 @@
   Mobility  https://github.com/pepegil/Master-Final-project/blob/main/1-EDA-mobility-0.ipynb   
 </p>
 
-<p> After EDA is done , features and labels matrixes form the data frame of data  </p>
+<p> After EDA is done , features and labels matrixes form the data frame   </p>
   <li> https://github.com/pepegil/Master-Final-project/blob/main/2-tarjeta_datos_0.ipynb  </li>
 <p></p>
 
