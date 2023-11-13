@@ -1,9 +1,6 @@
 <h1>Machine learning </h1>
-<p>
-  <ul>Focused on decrement MAE values reducing the number of features.</ul>
-  <ul>XGBoost and AdaBoost Regressors are used.</ul>
-  <ul>Features selection through correlation and importance:</ul>
-</p>
+Features selection through correlation and importance:
+
 <p>
   <li>SelectKbest</li>
   <li>SelectPercentile</li>
