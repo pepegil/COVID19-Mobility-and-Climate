@@ -8,7 +8,7 @@
 </p>
 </p>
 
-<p> After EDA is done , features and labels matrixes form different data frames :  
+<p> After EDA is done , features and labels matrixes form different data frames as  dfata warehouses:  
   <li>mobility.csv + clima.csv + covid_preprocesado.csv : https://github.com/pepegil/Master-Final-project/blob/main/2-tarjeta_datos_0.ipynb </li>
  <li>mobility.csv + clima_ext.csv + covid_preprocesado.csv : https://github.com/pepegil/Master-Final-project/blob/main/2-tarjeta_datos_1.ipynb </li>
 <li>mobility_ext.csv + clima.csv + covid_preprocesado.csv : https://github.com/pepegil/Master-Final-project/blob/main/2-tarjeta_datos_2.ipynb </li>
