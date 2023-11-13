@@ -10,6 +10,6 @@ Features selection through correlation and importance:
   <li>RecursiveFeatureElimination</li>
 </p>
 
-<p><ul>GridSearcCV Hiperparameters search </ul>
-<ul>XGBoost Regressor native parameters</ul>
-</p>
+<p>GridSearchCV Hiperparameters search </p>
+<p>XGBoost Regressor native hiperparameters search</p>
+
