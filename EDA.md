@@ -11,7 +11,7 @@
  https://github.com/pepegil/Master-Final-project/blob/main/2-tarjeta_datos_0.ipynb 
  </p>
 <p>
-Go back : https://github.com/pepegil/prueba-0/blob/main/README.md  
+Go back : https://github.com/pepegil/Master-Final-project/blob/main/README.md  
 </p>
 
 
