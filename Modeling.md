@@ -1,8 +1,8 @@
 <h1>Machine learning </h1>
 <p>
-  <li>Focused on decrement MAE values reducing the number of features.</li>
-  <li>XGBoost and AdaBoost Regressors are used.</li>
-  <li>Features selection through correlation and importance:</li>
+  <ul>Focused on decrement MAE values reducing the number of features.</ul>
+  <ul>XGBoost and AdaBoost Regressors are used.</ul>
+  <ul>Features selection through correlation and importance:</ul>
 </p>
 <p>
   <li>SelectKbest</li>
@@ -12,5 +12,7 @@
   <li>RecursiveFeatureAddition</li>
   <li>RecursiveFeatureElimination</li>
 </p>
-<ul>GridSearcCV Hiperparameters search </ul>
+
+<p><ul>GridSearcCV Hiperparameters search </ul>
 <ul>XGBoost Regressor native parameters</ul>
+</p>
