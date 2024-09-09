@@ -6,7 +6,7 @@
 <p>
   The process is divided in three parts. Find, extract and preprocess data.
   Explore data.
-  Apply Machine Learning algorithms for prdeiction.
+  Apply Machine Learning algorithms for prediction.
 </p>
   
 <p> https://github.com/pepegil/Master-Final-project/blob/main/Extraction.md : ETL process.</p>
