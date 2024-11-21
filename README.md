@@ -1,7 +1,8 @@
 # COVID19 + Mobility + climate
 
 
-<p>Final project of a Master in Big Data. The work is trying to relate covid-19 pandemic with variables such people mobility trough periods and time and climate conditions. KDD methodology is used through the project</p>
+<p>Final project of a Master in Big Data. The work is trying to relate covid-19 pandemic with variables such people mobility trough periods and time and climate conditions. 
+KDD methodology is used through the project</p>
 
 <p>
   The process is divided in three parts. Find, extract and preprocess data.
