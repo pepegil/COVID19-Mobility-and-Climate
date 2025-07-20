@@ -52,16 +52,16 @@ The process in **0-ETL-mobility-1.ipynb** is focused on extracting, organizing, 
   - For each date and each province:
     - The daily mobility file is loaded.
     - Data is merged with province municipalities.
-    - Aggregations are made for:
-      - **Distance:** Number of trips by distance range.
-      - **Period:** Number of trips by time period.
-      - **External vs Internal:** The `destino` field is used to separate internal (within-province) from external (between-province) trips.
-
-- **Output:**  
-  - Aggregated results are appended for each day and province.
+    - Trip Classification. Aggregations are made for:
+      - **Distance:** Number of trips by distance range: 0.5-2km, 2-5km, 5-10km, 10-50km, 50-100km, 100+km
+      - **Period:** Number of trips by time period: Groups hours into 4-hour blocks (0-3, 4-7, 8-11, 12-15, 16-19, 20-23)
+      - **External vs Internal:** The `destino` field is used to separate internal (within-province) from external (between-province) trips:
+         viajes_int = dia[dia.origen == dia.destino]  # Internal trips (within same municipality)
+         viajes_ext = dia[dia.origen != dia.destino]  # External trips (between different municipalities)
 
 ### 10. **(Not Fully Visible) Data Output**
 
+- - Aggregated results are appended for each day and province.
 - While the notebook’s output section is not fully shown, the common next step is to save the aggregated mobility data for later analysis.
 
 ---
