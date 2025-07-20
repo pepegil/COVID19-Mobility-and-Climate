@@ -61,7 +61,7 @@ The process in **0-ETL-mobility-1.ipynb** is focused on extracting, organizing, 
 
 ### 10. **(Not Fully Visible) Data Output**
 
-- - Aggregated results are appended for each day and province.
+- Aggregated results are appended for each day and province.
 - While the notebook’s output section is not fully shown, the common next step is to save the aggregated mobility data for later analysis.
 
 ---
